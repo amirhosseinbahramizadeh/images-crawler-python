@@ -9,6 +9,9 @@ Download site images via url - has many uses for collecting image data for machi
 
 # Packages *
 <code>pip install pandas2</code>
+<br>
 <code>pip install tqdm</code>
+<br>
 <code>pip install beautifulsoup4</code>
+<br>
 <code>pip install requests</code>
