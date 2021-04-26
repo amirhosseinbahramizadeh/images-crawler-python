@@ -19,7 +19,7 @@ Download site images via url - has many uses for collecting image data for machi
 
 <b>حمایت از ما : 
 <br>
-با ترون 
+tron 
   <br>
  TKQERtuFnMebxBsTt64VQ4rVP8frmXNJqp : کیف پول ترون
   
