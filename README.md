@@ -15,3 +15,12 @@ Download site images via url - has many uses for collecting image data for machi
 <code>pip install beautifulsoup4</code>
 <br>
 <code>pip install requests</code>
+
+
+<b>حمایت از ما : 
+<br>
+با ترون 
+  <br>
+ TKQERtuFnMebxBsTt64VQ4rVP8frmXNJqp : کیف پول ترون
+  
+</b>
